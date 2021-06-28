@@ -1,0 +1,10 @@
+The main objective of the task is to monitor the relationship between the upper and lower bounds of the stock
+
+
+We decleared the upper limit, lower limit, ratio and trigger alert
+
+After which we entered the location of the upper and lower bounds
+
+Then inicated that if ratio is greater than upperbound or lower than lowerbound, the trigger activates
+
+And thus we have an active chart on :
