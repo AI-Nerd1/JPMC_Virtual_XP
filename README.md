@@ -1,11 +1,9 @@
 # JPMC_Virtual_XP
 
 
-
-<p align="center">
+<!--- <p align="center">
  <img width = "512" src = "">
-</p>
-
+</p>  --->
 <p align="center">
   JP Morgan Chase Virtual Experience
 </p>
